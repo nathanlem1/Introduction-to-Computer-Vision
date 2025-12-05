@@ -7,6 +7,8 @@ parts:
 1. [Part 1](https://github.com/nathanlem1/Introduction-to-Computer-Vision/blob/main/Computer_Vision_Part_1.pdf) which covers introduction to 2D computer vision, and 
 2. [Part 2](https://github.com/nathanlem1/Introduction-to-Computer-Vision/blob/main/Computer_Vision_Part_2.pdf) which covers introduction to 3D computer vision.
 
+Many people use AI and machine learning (ML) interchangeably. If you want to know their difference and relationship, look at
+[AI-ML](https://github.com/nathanlem1/Introduction-to-Computer-Vision/blob/main/AI_ML.pdf).
 
 
 ## Tutorials
