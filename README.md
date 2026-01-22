@@ -10,6 +10,9 @@ parts:
 Many people use AI and machine learning (ML) interchangeably. If you want to know their difference and relationship, look at
 [AI-ML](https://github.com/nathanlem1/Introduction-to-Computer-Vision/blob/main/AI_ML.pdf).
 
+NOTE: If you want to do research, you need to remember Arthur L. Schawlow's quote: "To do successful research, you don't need to 
+know everything, you just need to know one thing that is not known."
+
 
 ## Tutorials
 Todo: Add tutorials to make clear the ideas described in this introduction to computer vision.
