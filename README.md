@@ -14,8 +14,10 @@ NOTE: If you want to do research, you need to remember Arthur L. Schawlow's quot
 know everything, you just need to know one thing that is not known."
 
 
+<!---
 ## Tutorials
 Todo: Add tutorials to make clear the ideas described in this introduction to computer vision.
+--->
 
 
 ## Citation
